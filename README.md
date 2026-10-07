@@ -22,6 +22,7 @@ Estudio Ingeniería Informática en la Institución Universitaria de Envigado (2
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks**
 
@@ -48,10 +49,10 @@ Estudio Ingeniería Informática en la Institución Universitaria de Envigado (2
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**Crud-Hospital-Python**](https://github.com/32civ/Crud-Hospital-Python) | Sistema de gestión hospitalaria con operaciones CRUD. | Python |
-| [**Blog-Django**](https://github.com/32civ/Gestion-de-Salones) | Aplicación web que permite administar aulas de cualquier institución, y en proceso de asignacion de notas - autenticación / publicaciones / comentarios. | C# · Tailwind · SQL |
-| [**Crud-DotNet**](https://github.com/32civ/Crud-en-.Net) | Aplicación CRUD en .NET con base de datos. | C# · .NET |
-| [**PaginaTerminadoJC**](https://github.com/32civ/PaginaTerminadoJC) | Sitio web responsive para Jovenes Creativos - Softka. | HTML · CSS |
+| [**Crud Hospital Python**](https://github.com/32civ/Crud-Hospital-Python) | Sistema de gestión hospitalaria con operaciones CRUD. | Python |
+| [**Gestion de Salones**](https://github.com/32civ/Gestion-de-Salones) | Aplicación web que permite administar aulas de cualquier institución, y en proceso de asignacion de notas - autenticación / publicaciones / comentarios. | C# · Tailwind · SQL |
+| [**Crud .Net**](https://github.com/32civ/Crud-en-.Net) | Aplicación CRUD en .NET con base de datos. | C# · .NET |
+| [**Pagina Jc**](https://github.com/32civ/PaginaTerminadoJC) | Sitio web responsive para Jovenes Creativos - Softka. | HTML · CSS |
 
 ---
 
