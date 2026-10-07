@@ -1,22 +1,15 @@
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
-<h3 align="center">[Tu rol, ej: Desarrollador Backend / Full Stack] · [Ciudad, País]</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Sí-2ea44f?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=32civ&label=Visitas&color=0e75b6&style=for-the-badge" />
-</p>
+<h1 align="center">Hola, soy Gabriel Molina 👋</h1> <h3 align="center">Estudiante de Ingeniería Informática · Desarrollador Web</h3> <p align="center">📍 Medellin, Antioquia, Colombia</p> <p align="center"> <img src="https://img.shields.io/badge/Abierto%20a-Pr%C3%A1cticas%20%26%20Freelance-2ea44f?style=for-the-badge" /> <img src="https://komarev.com/ghpvc/?username=32civ&label=Visitas&color=0e75b6&style=for-the-badge" /> </p>
 
 ---
 
 ### 🧑‍💻 Sobre mí
-Soy [rol] con [X años] de experiencia construyendo [tipo de soluciones: APIs, sistemas de gestión, aplicaciones web] con **Python/Django** y **.NET**.
-Me enfoco en [tu fortaleza: código limpio, bases de datos, arquitectura, etc.].
-Actualmente [estudio / trabajo en / aprendo]: **[Tecnología o institución]**.
+Estudio Ingeniería Informática en la Institución Universitaria de Envigado (2024 – 2028) y desarrollo sitios web como freelance desde 2022. Me gusta entender primero el problema del cliente y luego construir una solución clara, funcional y bien entregada, desde el levantamiento de requerimientos hasta la puesta en marcha.
 
-- 🔭 Trabajando en: **[proyecto actual]**
-- 🌱 Aprendiendo: **[Docker / APIs REST / Cloud / Testing...]**
-- 🎓 Formación: **[carrera, institución, año]**
-- 💬 Pregúntame sobre: **[Django, CRUD, bases de datos...]**
+- 🔭 Trabajando en: **proyectos web a la medida para clientes**
+- 🌱 Aprendiendo: **Ciencia de datos e inteligencia artificial**
+- 🎓 Formación: **Programador de Páginas Web, Sofka – Jóvenes Creativos · Técnico en Programación de Software, María Poussepin CEFIT**
+- 💬 Pregúntame sobre: **Django, CRUD, bases de datos, Power BI, Excel]**
+- 🎓 Formación: **Programador de Páginas Web, Sofka – Jóvenes Creativos · Técnico en Programación de Software, María Poussepin CEFIT**
 
 ---
 
@@ -35,7 +28,7 @@ Actualmente [estudio / trabajo en / aprendo]: **[Tecnología o institución]**.
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Bases de datos y herramientas** *(deja solo lo que domines según tu CV)*
+**Bases de datos y herramientas** 
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,13 +40,7 @@ Actualmente [estudio / trabajo en / aprendo]: **[Tecnología o institución]**.
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=32civ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32civ&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=32civ&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=32civ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32civ&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=32civ&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
@@ -61,17 +48,13 @@ Actualmente [estudio / trabajo en / aprendo]: **[Tecnología o institución]**.
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**Crud-Hospital-Python**](https://github.com/32civ/Crud-Hospital-Python) | Sistema de gestión hospitalaria con operaciones CRUD. *[añade: qué gestiona]* | Python |
-| [**Blog-Django**](https://github.com/32civ/Blog-Django) | Blog con [autenticación / publicaciones / comentarios]. | Django · Python |
-| [**Crud-DotNet**](https://github.com/32civ/Crud-en-.Net) | Aplicación CRUD en .NET con [base de datos]. | C# · .NET |
-| [**PaginaTerminadoJC**](https://github.com/32civ/PaginaTerminadoJC) | Sitio web responsive para [cliente/propósito]. | HTML · CSS |
+| [**Crud-Hospital-Python**](https://github.com/32civ/Crud-Hospital-Python) | Sistema de gestión hospitalaria con operaciones CRUD. | Python |
+| [**Blog-Django**](https://github.com/32civ/Gestion-de-Salones) | Aplicación web que permite administar aulas de cualquier institución, y en proceso de asignacion de notas - autenticación / publicaciones / comentarios. | C# · Tailwind · SQL |
+| [**Crud-DotNet**](https://github.com/32civ/Crud-en-.Net) | Aplicación CRUD en .NET con base de datos. | C# · .NET |
+| [**PaginaTerminadoJC**](https://github.com/32civ/PaginaTerminadoJC) | Sitio web responsive para Jovenes Creativos - Softka. | HTML · CSS |
 
 ---
 
 ### 📫 Contacto
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/[tu-usuario]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[tu-correo]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[tu-portafolio]"><img src="https://img.shields.io/badge/Portafolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<p align="center"> <a href="mailto:vicmelutrera@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
